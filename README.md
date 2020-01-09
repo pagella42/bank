@@ -1,5 +1,5 @@
 RUN WITH COMMAND:
-    npm run start bank
+    npm run dev
 
 
 IMPLEMENTATION OF BANK
